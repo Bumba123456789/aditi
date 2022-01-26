@@ -1,0 +1,26 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+h3{
+font-size: 20px;
+    text-align: center;
+    color: red;
+}
+
+body{
+    background-color:rgb(241, 241, 106);
+}
+
+    img{
+    height:400px;
+    width:1250px;
+    opacity: 100%;
+    
+}
